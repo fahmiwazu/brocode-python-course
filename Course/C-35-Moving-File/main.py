@@ -1,9 +1,9 @@
 ############ Move file using python
 import os
 
-source = "C:\\Users\\fahmi\\PycharmProjects\\hellloworlde\\C34-Copy-File\\copy.txt"
+source = "C:\\Users\\fahmi\\PycharmProjects\\hellloworlde\\C-34-Copy-File\\copy.txt"
 # source = "floder"
-destination = "C:\\Users\\fahmi\\PycharmProjects\\hellloworlde\\C35-Moving-File\\copy2.txt"
+destination = "C:\\Users\\fahmi\\PycharmProjects\\hellloworlde\\C-35-Moving-File\\copy2.txt"
 
 try:
     if os.path.exists(destination):
