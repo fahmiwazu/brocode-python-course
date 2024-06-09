@@ -1,7 +1,7 @@
 ############### basic file detection in python
 import os
-# path = "C:\\Users\\fahmi\\PycharmProjects\\hellloworlde\\C31-Basic-File-Detection"
-path = "C:\\Users\\fahmi\\PycharmProjects\\hellloworlde\\C31-Basic-File-Detection\\text.txt"
+# path = "C:\\Users\\fahmi\\PycharmProjects\\hellloworlde\\C-31-Basic-File-Detection"
+path = "/Course/C-31-Basic-File-Detection/text.txt"
 
 if os.path.exists(path):
     print("That location existed")
