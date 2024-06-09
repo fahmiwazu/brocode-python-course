@@ -1,0 +1,6 @@
+############ reading file in python
+try:
+    with open('test.txt') as file:
+        print(file.read())
+except FileNotFoundError:
+    print("File not found")
